@@ -4,7 +4,7 @@ Bem-vindo ao Sistema de Gestão Escolar! Este sistema foi desenvolvido para gere
 
 ## Autores
 - Guilherme Augusto Ribeiro da Silva - 2023427503
-- Arthur Rangel Carvalho - 
+- Arthur Rangel Carvalho - 2024421622
 
 ## Visão Geral
 
